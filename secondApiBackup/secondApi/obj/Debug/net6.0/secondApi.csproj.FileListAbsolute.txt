@@ -1,0 +1,162 @@
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/appsettings.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi.staticwebassets.runtime.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi.deps.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi.runtimeconfig.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/secondApi.pdb
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.AssemblyReference.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.AssemblyInfoInputs.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.AssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.CoreCompileInputs.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.RazorAssemblyInfo.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.RazorAssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/scopedcss/bundle/secondApi.styles.css
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/scopedcss/projectbundle/secondApi.bundle.scp.css
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/refint/secondApi.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.pdb
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.genruntimeconfig.cache
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/ref/secondApi.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.CopyComplete
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/salvatoretrisciuoglio/Projects/secondApi/secondApi/bin/Debug/net6.0/Npgsql.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/appsettings.Development.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/appsettings.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi.staticwebassets.runtime.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi.deps.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi.runtimeconfig.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/secondApi.pdb
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Humanizer.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Npgsql.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.AssemblyReference.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.AssemblyInfoInputs.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.AssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.CoreCompileInputs.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.RazorAssemblyInfo.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.RazorAssemblyInfo.cs
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/staticwebassets.build.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/staticwebassets.development.json
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/scopedcss/bundle/secondApi.styles.css
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/scopedcss/projectbundle/secondApi.bundle.scp.css
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.csproj.CopyComplete
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/refint/secondApi.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.pdb
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/secondApi.genruntimeconfig.cache
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/obj/Debug/net6.0/ref/secondApi.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Web.XmlTransform.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Commands.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Common.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Configuration.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Credentials.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.DependencyResolver.Core.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.LibraryModel.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.PackageManagement.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Packaging.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.ProjectModel.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Protocol.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Resolver.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/NuGet.Versioning.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.ComponentModel.Composition.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Azure.Core.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Azure.Storage.Blobs.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Azure.Storage.Common.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.IO.Hashing.dll
+/Users/salvatoretrisciuoglio/Documents/visualStudio workspaces/secondApi/secondApi/bin/Debug/net6.0/System.Memory.Data.dll
